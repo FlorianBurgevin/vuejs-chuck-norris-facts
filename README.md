@@ -3,6 +3,12 @@
 Application qui permet de trouver des "Chuck Norris Facts" à partir d'un mot-clé ou aléatoirement.
 
 
+### Prérequis
+
+ * NodeJS
+ * npm
+
+
 ### Installation
 
 
